@@ -4,5 +4,5 @@
     "workbench.editorAssociations": {   
         "*.md": "vscode.markdown.preview.editor"
     },
-    "liveServer.settings.port": 5502
+    "liveServer.settings.port": 5503
 }
